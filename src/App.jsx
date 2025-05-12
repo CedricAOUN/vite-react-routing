@@ -4,6 +4,7 @@ import Layout from './components/Layout'
 import Home from './pages/Home'
 import Category from './pages/Category'
 import NotFound from './pages/NotFound'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
