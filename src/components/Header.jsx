@@ -8,7 +8,7 @@ function Header() {
         <Container>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav className="ms-auto">
               <Nav.Link to="/" as={Link}>Acceuil</Nav.Link>
               <Nav.Link to="/category/clothes" as={Link}>Vêtements</Nav.Link>
               <Nav.Link to="/category/shoes" as={Link}>Chaussures</Nav.Link>
